@@ -1,0 +1,20 @@
+# python
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+.venv
+.python-version
+
+# r
+*.Rproj
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# macos
+.DS_Store
+
+# misc
+data/
+.env
